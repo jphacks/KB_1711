@@ -1,6 +1,6 @@
 # Emo_buddy
 
-動画　TBD
+[![Emo_buddy](https://raw.githubusercontent.com/jphacks/KB_1711/b427ec1e03cb27f3f51f7519674f840ccb648d81/mov_thumb.png)](https://vimeo.com/240364403)
 
 ## 製品概要
 ### Emotion X Tech
